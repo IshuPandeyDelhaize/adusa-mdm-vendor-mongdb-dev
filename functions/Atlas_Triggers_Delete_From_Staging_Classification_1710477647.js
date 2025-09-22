@@ -2,7 +2,7 @@
 /** Trigger written by Ron Paro 11-27-2023
  *  This function will listen for events in the vmdm mirror BP database and delete the corresponding source document after the versioned document is written 
  */
- //Checking deployment for Dev
+ //Checking deployment for Dev test
  exports = async function(changeEvent) {
 
 
